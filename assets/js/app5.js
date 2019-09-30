@@ -194,7 +194,7 @@ function titleUpdate(chosenXAxis, chosenYAxis, title) {
 
 
 
-d3.csv("../assets/data/data.csv").then(function (csvData) {
+d3.csv("./assets/data/data.csv").then(function (csvData) {
     // console.log(csvData);
 
     csvData.forEach(function (data) {
