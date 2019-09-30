@@ -29,3 +29,23 @@ body {
   margin: 0;
   font-size: 16px;
 }
+
+.abbr {
+  font-weight: 600;
+}
+
+.jumbotron {
+  background-color: transparent;
+  /* background-image: url(https://cdn5.vectorstock.com/i/1000x1000/55/79/modern-building-with-night-city-background-vector-8255579.jpg); */
+  background-size: cover;
+  height: 100%;
+
+}
+
+.title-text {
+  font-family: 'Gravitas One', cursive;
+}
+
+.title {
+  font-weight: bold;
+}
